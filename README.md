@@ -37,3 +37,25 @@ This repository contains an implementation of the Banker's Algorithm, a deadlock
    ```bash
    git clone https://github.com/yourusername/bankers-algorithm.git
    cd bankers-algorithm
+
+### Usage
+
+- **Input Data**: Use the shell script to input the number of processes, resources, and their respective allocation and maximum demand.
+- **Run the Algorithm**: The script will execute the Banker's Algorithm using the provided inputs and display the results.
+- **Check for Safety**: The algorithm will determine if the system is in a safe state or if a deadlock might occur.
+
+### Contributing
+- We welcome contributions! Please follow these steps:
+
+### Fork the repository.
+- Create a new branch: git checkout -b feature-branch.
+- Make your changes and commit them: git commit -m 'Add new feature'.
+- Push to the branch: git push origin feature-branch.
+- Open a Pull Request.
+
+### License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+### Acknowledgments
+Special thanks to the contributors and the open-source community for their support and inspiration.
+
